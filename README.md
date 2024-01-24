@@ -1,6 +1,6 @@
 Certainly, King Haidar. Here's an example of a table of contents for your README file with links to different sections:
 
-```markdown
+
 # ElectroWave Simulacrum
 
 - [Introduction](#introduction)
